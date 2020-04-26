@@ -1,2 +1,2 @@
 # win32api-via-py
-Pratical Win32 API via Python
+Practical Win32 API via Python

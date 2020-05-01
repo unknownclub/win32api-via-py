@@ -42,21 +42,3 @@ if response <= 0:
 else:
     print("Process went Bye Bye.")
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
